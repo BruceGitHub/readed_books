@@ -1,6 +1,20 @@
 # read_books
 My read books, What I had learn, What I should learn. Note of appassionate lector
 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/a8aacec3-0bc4-4193-924a-3a30460f8f39" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/03326599-4050-4aca-8db5-a3435ea748bf" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/e366ff74-6948-46b2-8a19-320261d4371b" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0d07f75d-0c4d-4d1a-8610-af39fb1dd4f4" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/57cd3696-9a67-4c1c-adab-0a84e304e07e" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/ebbdc905-d878-4b30-ae5e-7d90ca78a9ac" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c45fac37-a991-4d15-8dc8-712d8a99ae9f" />
+
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/66e25388-ae13-4e7f-8910-91d4ea0f15cc" />
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/75b0a431-f0d7-42b5-bf36-b0635d036989" />
