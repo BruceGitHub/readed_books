@@ -5,11 +5,21 @@ My readed books, What I had learn, What I should learn. Note of appassionate lec
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/be43492c-ddb7-4003-bebc-37d720ac4c96" />
 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/3412edd0-63e8-48d7-a6e0-247e11a7a935" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/208e81f1-d3d6-4b6d-9d0b-780e45e67bb3" />
+
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b0e16c18-8703-482a-b95e-264de8055ee6" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c6ff1d9c-73c7-4218-ad80-d56bad37b5b1" />
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/ae654e1e-3a68-4c4a-b043-3373c6824695" />
 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/f4dbbfd5-ee54-432e-854d-b608d2440234" />
+
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/79574da1-f6dd-4049-ba5e-1a3df25b825d" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/05d6e7b1-8e68-4e8a-8a4b-f48781891f95" />
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/75768a16-eb9f-4aea-b6d3-1d3a9077d255" />
 
