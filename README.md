@@ -1,5 +1,5 @@
-# readed_books
-My readed books, What I had learn, What I should learn. Note of appassionate lector
+# read_books
+My read books, What I had learn, What I should learn. Note of appassionate lector
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/66e25388-ae13-4e7f-8910-91d4ea0f15cc" />
 
