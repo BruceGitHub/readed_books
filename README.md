@@ -5,6 +5,10 @@ My readed books, What I had learn, What I should learn. Note of appassionate lec
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/be43492c-ddb7-4003-bebc-37d720ac4c96" />
 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c0a5bc45-ffc5-4d0d-8e4b-796339a44f32" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/964d9196-29b1-4adf-8178-c301be329d2e" />
+
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/3412edd0-63e8-48d7-a6e0-247e11a7a935" />
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/208e81f1-d3d6-4b6d-9d0b-780e45e67bb3" />
